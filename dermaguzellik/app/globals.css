@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.show {
+  height: auto;
+  transition: height 0.3s ease;
+  overflow: hidden;
+}
